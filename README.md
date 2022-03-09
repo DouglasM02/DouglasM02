@@ -7,3 +7,7 @@ ________________________________________________________________________________
 * JS
 * Estudando Python
 
+________________
+## Algumas Redes Sociais
+
+[CodePen](https://codepen.io/douglasm02/)
